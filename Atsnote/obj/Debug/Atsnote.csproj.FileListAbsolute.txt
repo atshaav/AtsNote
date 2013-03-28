@@ -1,0 +1,16 @@
+C:\Users\Ats\AppData\Local\Temporary Projects\Atsnote\bin\Debug\Atsnote.exe
+C:\Users\Ats\AppData\Local\Temporary Projects\Atsnote\bin\Debug\Atsnote.pdb
+C:\Users\Ats\AppData\Local\Temporary Projects\Atsnote\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Ats\AppData\Local\Temporary Projects\Atsnote\obj\Debug\Atsnote.Form1.resources
+C:\Users\Ats\AppData\Local\Temporary Projects\Atsnote\obj\Debug\Atsnote.Properties.Resources.resources
+C:\Users\Ats\AppData\Local\Temporary Projects\Atsnote\obj\Debug\Atsnote.csproj.GenerateResource.Cache
+C:\Users\Ats\AppData\Local\Temporary Projects\Atsnote\obj\Debug\Atsnote.exe
+C:\Users\Ats\AppData\Local\Temporary Projects\Atsnote\obj\Debug\Atsnote.pdb
+C:\Users\Ats\Documents\Visual Studio 2008\Projects\Atsnote\Atsnote\obj\Debug\Atsnote.exe
+C:\Users\Ats\Documents\Visual Studio 2008\Projects\Atsnote\Atsnote\obj\Debug\Atsnote.pdb
+C:\Users\Ats\Documents\Visual Studio 2008\Projects\Atsnote\Atsnote\bin\Debug\Atsnote.exe
+C:\Users\Ats\Documents\Visual Studio 2008\Projects\Atsnote\Atsnote\bin\Debug\Atsnote.pdb
+C:\Users\Ats\Documents\Visual Studio 2008\Projects\Atsnote\Atsnote\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Ats\Documents\Visual Studio 2008\Projects\Atsnote\Atsnote\obj\Debug\Atsnote.Form1.resources
+C:\Users\Ats\Documents\Visual Studio 2008\Projects\Atsnote\Atsnote\obj\Debug\Atsnote.Properties.Resources.resources
+C:\Users\Ats\Documents\Visual Studio 2008\Projects\Atsnote\Atsnote\obj\Debug\Atsnote.csproj.GenerateResource.Cache
